@@ -1,0 +1,11 @@
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MisterX.exe.config
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MisterX.exe
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MisterX.pdb
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\MisterX.xml
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MrX.Main.resources
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MrX.Resources.resources
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MisterX.exe
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MisterX.xml
+c:\users\angelo\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\MisterX.pdb

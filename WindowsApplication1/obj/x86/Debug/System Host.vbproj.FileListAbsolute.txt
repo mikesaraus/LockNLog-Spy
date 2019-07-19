@@ -1,0 +1,16 @@
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\System Host.exe.config
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\System Host.exe.manifest
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\System Host.application
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\System Host.exe
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\System Host.pdb
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\System Host.xml
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.vbprojResolveAssemblyReference.cache
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\svhost.Main_Form.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\svhost.Resources.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.vbproj.GenerateResource.Cache
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.TrustInfo.xml
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.exe.manifest
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.application
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.exe
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.xml
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\System Host.pdb

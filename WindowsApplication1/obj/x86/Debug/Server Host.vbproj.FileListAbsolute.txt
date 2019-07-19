@@ -1,0 +1,16 @@
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\srvhost.exe.config
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\srvhost.exe.manifest
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\srvhost.application
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\srvhost.exe
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\srvhost.pdb
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\x86\Debug\srvhost.xml
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.Main_Form.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.Resources.resources
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Server Host.vbproj.GenerateResource.Cache
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.TrustInfo.xml
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.exe.manifest
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.application
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.exe
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.xml
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\srvhost.pdb
+C:\Users\Angelo\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Server Host.vbprojResolveAssemblyReference.cache
